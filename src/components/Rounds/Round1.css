@@ -1,0 +1,171 @@
+.rnd1nav{
+    position: absolute;
+width: 375px;
+height: 64px;
+left: 0px;
+top: 42px;
+
+/* White */
+
+background: #FFFFFF;
+}
+.rnd1bigshot{
+    height: 50px;
+    width: 110.27px;
+    margin-bottom: 1.9rem;
+}
+.rnd1btnrow{
+   
+    border-radius: 50px;
+    margin: 2rem;
+    padding: 0.7rem 2rem;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0.5rem;
+    color: white;
+    }
+.rnd1title{
+width: 213px;
+height: 50px;
+margin-left: 81px;
+top: 136px;
+padding-top: 2rem;
+padding-bottom: 1rem;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: bolder;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+/* White */
+
+color: #000000;
+}
+.rnd1vdo{
+    z-index: -1;
+    box-sizing: border-box;
+width: 100%;
+height: 233px;
+top: 2px;
+}
+
+.rnd1head{
+    position: relative;
+    z-index: 10;
+width: 320px;
+height: 88px;
+ margin-top: 1.5rem;
+ margin-left: 1.5rem;
+
+/* White */
+
+background: #FFFFFF;
+border-radius: 7.73965px;
+}
+.rnd1shadow{
+    border-radius: 7.73965px;
+position: absolute;
+
+width: 320.17px;
+height: 87.41px;
+left: 25px;
+margin-top: 2rem;
+margin-left: -0.6rem;
+/* All Gradient */
+
+background: linear-gradient(248.93deg, #6D02C3 6.83%, #454ADA 37.17%, #3B58DB 53.75%, #3080D6 75.49%, #44C2ED 97.61%);
+}
+.rnd1img{
+ 
+width: 14rem;
+height: 5rem;
+
+margin-left: 3rem;
+margin-top: 0.rem;
+}
+.rnd1headtitle{
+
+width: 163.5px;
+
+margin-left: 4.2rem;
+margin-top: 0.5rem;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+text-align: center;
+
+/* Pink linear */
+
+background: linear-gradient(267.94deg, #C93D63 0%, #C93D80 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+/* White */
+
+border: 4.5px dashed #FFFFFF;
+}
+.rnd1headsubtitle{
+
+
+
+    left: 56px;
+    top: 504.5px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    text-align: center;
+    text-transform: capitalize;
+    
+    background: linear-gradient(267.94deg, #C93D63 0%, #C93D80 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    
+  
+}
+
+.rnd1bg{
+    margin-top: -2rem;
+    z-index: -1;
+    background-color: #1b3a76;
+    
+    /* background-image: url('./bg.jpeg'); */
+}
+
+.rnd1copyright{
+    text-align: center;
+    background-color: #102447;
+ margin-top: 2rem;
+  padding: 1.2rem;
+  color: #697791;
+}
+.navbar-collapse{
+    transition: all 0.5 ease;
+    display: flex;
+    margin-left: 45vw;
+    background: #ffffff;
+    z-index: 100;
+    position: absolute;
+    border: 2px solid black;
+    width:55vw;
+    height: 100vh;
+
+}
+.navbtn{
+    z-index: 20000;
+}
